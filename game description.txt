@@ -1,0 +1,5 @@
+Based on the theme "from the end to the beginning", the aim of the game is to travel through a 'maze' to a target where the route is clearly marked. Once the end of that route is reached, the aim is to return to the beginning of that route. The twist, however, is that the route is not marked on that return journey and other distractions (dead-end routes, bonus items to collect).
+
+You can get more information by pressing F1 on the title screen. Pressing F1 again will show even more information which includes the (simple) controls.
+
+Have fun!
