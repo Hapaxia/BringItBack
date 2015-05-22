@@ -1,7 +1,5 @@
-*****************
-* Bring It Back *
-*****************
-by Hapax (2015)
+#Bring It Back
+*by Hapax (2015)*
 (http://github.com/Hapaxia)
 
 C++11 required and [SFML](http://sfml-dev.org) 2 (2.2 was used) is required.
