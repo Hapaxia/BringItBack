@@ -10,6 +10,6 @@ All sounds and graphics are original resources.
 
 Uses [Hx library](http://github.com/Hapaxia/Hx).
 At time of uploading, the Github version of Hx is not up-to-date. Features used but missing from the Github version are:
-Plinth/SFML/Anchor (returns object boundaries)
-Depot/SFML/ResourceManagerBasic (stores fonts, graphics, and sounds)
-Kairos/Timestep (only the "lite" version is present on Github)
+* Plinth/SFML/Anchor (returns object boundaries)
+* Depot/SFML/ResourceManagerBasic (stores fonts, graphics, and sounds)
+* Kairos/Timestep (only the "lite" version is present on Github)
